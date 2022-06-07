@@ -7,3 +7,12 @@ h1{
     color: #eef;
     text-align: center;
 }
+.option{
+    color: #000;
+}
+input{
+    cursor: pointer;
+}
+select{
+    cursor: pointer;
+}
